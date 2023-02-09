@@ -1,0 +1,2 @@
+Basic IoT web app that allows you to control a smart light bulb through a web browser.
+Note: In a real-world scenario, you would need to use a device that can communicate with the web app, such as a microcontroller or a server, to interact with the light bulb. 
